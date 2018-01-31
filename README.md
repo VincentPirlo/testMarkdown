@@ -13,3 +13,8 @@
 [comment]: <> (a reference style link.)
 [//]: <> (This is also a comment.)
 [//]: # (This may be the most platform independent comment)
+
+
+[^_^]:
+    commentted-out contents
+    should be shift to right by four spaces (vim ：`>>`).
