@@ -10,3 +10,4 @@
 __underline__
 
 ++underline2++
+<table><tr><td bgcolor=orange> 背景色是orange</td></tr></table>
