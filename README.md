@@ -10,4 +10,6 @@
 __underline__
 
 ++underline2++
-<table><tr><td bgcolor=orange> 背景色是orange</td></tr></table>
+
+
+<table><tr><td bgcolor=#7FFFD4>这里的背景色是：Aquamarine，  十六进制颜色值：#7FFFD4， rgb(127, 255, 212)</td></tr></table>
